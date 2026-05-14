@@ -1,18 +1,87 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>Computer engineering projects and improving my problem-solving skills through hands-on coding.<br><br>👯 I’m looking to collaborate on  <br>Beginner-friendly open-source projects related to data structures, algorithms, and web development.<br><br>🤝 I’m looking for help with  <br>Optimizing DSA solutions and understanding real-world full-stack project architecture.<br><br>🌱 I’m currently learning  <br>Data Structures & Algorithms (DSA) and Full-Stack Web Development (frontend + backend).<br><br>💬 Ask me about  <br>C++, basic DSA concepts, HTML, CSS, JavaScript, and beginner full-stack learning paths.<br><br>⚡ Fun fact  <br>Consistent practice of DSA significantly improves logical thinking and coding efficiency.<br>
+<div align="center">
 
+# 👋 Hi, I'm Ram Gavade!
+### 🚀 Software Developer | Flutter | Flask | Full Stack
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ram Gavade) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ram Vithoba Gavade) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramgavade4@gmail.com) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Flutter+%26+Flask+Developer;Always+Learning+New+Things+%F0%9F%8C%B1)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ramgavade13&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ramgavade13&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramgavade13&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ramgavade13&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎓 About Me
+
+```python
+developer = {
+    "name"     : "Ram Gavade",
+    "college"  : "VIT Pune",
+    "branch"   : "Computer Engineering",
+    "year"     : "Second Year",
+    "passion"  : "Building Real-World Solutions",
+    "goal"     : "Full Stack Developer 🚀",
+    "funFact"  : "I debug code faster than I debug life 😄"
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+## 🚀 My Projects
+
+| # | Project | Tech Stack | Link |
+|---|---------|-----------|------|
+| 📚 | **LMS_APP** — Library Management System | Flutter + Flask + MySQL | [View →](https://github.com/ramgavade13/LMS_APP-) |
+| 🌱 | **Carbon Footprint Tracker** — Track & Reduce Carbon Impact | HTML + CSS + JS + Flask + SQLite | [View →](https://github.com/ramgavade13/Carbon-Footprint-Tracker) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Ram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramgavade13&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramgavade13&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramgavade13&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramgavade13)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramgavade13@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Quote
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+![Profile Views](https://komarev.com/ghpvc/?username=ramgavade13&color=blue&style=for-the-badge)
+
+</div>
