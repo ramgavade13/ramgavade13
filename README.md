@@ -70,7 +70,7 @@ developer = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramgavade13)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramgavade13@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramgavade4@gmail.com)
 
 </div>
 
@@ -78,10 +78,6 @@ developer = {
 
 <div align="center">
 
-### 💬 Quote
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-![Profile Views](https://komarev.com/ghpvc/?username=ramgavade13&color=blue&style=for-the-badge)
-
 </div>
+
+Commit changes → Done! 😊
