@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C06EFF,100:6A5AF9&height=220&section=header&text=Hi%20There,%20I'm%20Ram%20Gavade&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Flutter%20%7C%20Flask%20%7C%20Full%20Stack&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/ramgavade13">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C06EFF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+VIT+Pune;Flutter+%26+Flask+Developer;Building+Real-World+Solutions+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C06EFF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+VIT+Pune;Flutter+%26+Flask+Developer;Building+Real-World+Solutions+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -103,7 +103,7 @@ A web app to help users track and reduce their personal carbon footprint with da
 <img src="https://github-readme-stats.vercel.app/api?username=ramgavade13&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramgavade13&layout=compact&theme=radical&hide_border=true" width="38%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ramgavade13&theme=radical&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=ramgavade13&theme=radical&hide_border=true" width="70%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramgavade13&theme=radical&hide_border=true" width="90%"/>
 
